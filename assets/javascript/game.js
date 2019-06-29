@@ -1,3 +1,5 @@
+console.log("Hey, thanks for checking out my project, if you have any questions email me @ test@test.com")
+
 var computerChoice = [
   "a",
   "b",
